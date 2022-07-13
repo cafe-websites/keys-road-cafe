@@ -1,0 +1,5 @@
+name: Keys Road Cafe
+description: Amazing food, cooked fresh, excellent service and great people.
+color_profile: light  # options: light, dark, pink
+font_profile: futuristic  # options: futuristic, rustic, cursive, formal
+accent_color: "#306320"
